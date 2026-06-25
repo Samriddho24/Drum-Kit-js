@@ -96,7 +96,3 @@ Open `index.html` in your preferred web browser.
 - 🎹 Custom keyboard mappings
 
 ---
-
-If you found this project helpful, consider giving it a **⭐ Star** on GitHub!
-
----
