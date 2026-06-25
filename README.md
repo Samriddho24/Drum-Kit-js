@@ -13,7 +13,7 @@ An interactive **Drum Kit** web application built using **HTML, CSS, and JavaScr
 
 ## ✨ Features
 
-- 🥁 Play the different drum sounds using your keyboard
+- 🥁 Play  different drum sounds using your keyboard
 - 🖱️ Click on drum buttons to play sounds
 - ⚡ Smooth button press animations
 - 🔊 Instant audio feedback
